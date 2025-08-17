@@ -1,0 +1,6 @@
+id,title,city,zipcode,price,surface_m2,property_type,days_on_market,url
+1,T2 centre - Brest,Brest,29200,115000,45,T2,120,https://exemple1
+2,Maison T3 - Brest,Brest,29200,160000,70,Maison,150,https://exemple2
+3,Studio - Paris 15e,Paris,75015,190000,18,Studio,60,https://exemple3
+4,T2 - Paris 19e,Paris,75019,335000,35,T2,90,https://exemple4
+5,T3 - Brest St-Marc,Brest,29200,179000,62,T3,200,https://exemple5
